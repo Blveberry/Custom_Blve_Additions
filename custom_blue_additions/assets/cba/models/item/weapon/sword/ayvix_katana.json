@@ -1,0 +1,38 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"particle": "item/netherite_sword",
+		"layer0": "item/netherite_sword"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-45, -90, 0],
+			"translation": [0, 8.5, 1],
+			"scale": [1.7, 1.7, 1.7]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, -45],
+			"translation": [0, 8.5, 1],
+			"scale": [1.7, 1.7, 1.7]
+		},
+		"firstperson_righthand": {
+			"rotation": [-90, -75, -40],
+			"translation": [1.5, 7, 2]
+		},
+		"firstperson_lefthand": {
+			"rotation": [90, 75, -140],
+			"translation": [1.5, 7, 2]
+		},
+		"ground": {
+			"scale": [1.25, 1.25, 1.25]
+		},
+		"gui": {
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"fixed": {
+			"translation": [2.25, 2.5, -0.5],
+			"scale": [2, 2, 2]
+		}
+	}
+}

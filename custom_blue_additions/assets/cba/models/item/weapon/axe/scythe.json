@@ -1,0 +1,45 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"particle": "item/netherite_axe",
+		"layer0": "item/netherite_axe"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-45, -90, 0],
+			"translation": [0, 8, 0.5],
+			"scale": [2.25, 2.25, 1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, -45],
+			"translation": [0, 8, 0.5],
+			"scale": [2.25, 2.25, 1]
+		},
+		"firstperson_righthand": {
+			"rotation": [-33, -90, 25],
+			"translation": [1.13, 3, 1.13],
+			"scale": [1.36, 1.36, 1]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-33, 90, -25],
+			"translation": [1.13, 3, 1.13],
+			"scale": [1.36, 1.36, 1]
+		},
+		"ground": {
+			"scale": [1.25, 1.25, 1.25]
+		},
+		"gui": {
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"head": {
+			"rotation": [0, 0, 90],
+			"translation": [23.5, 3.5, 0],
+			"scale": [4, 4, 1.5]
+		},
+		"fixed": {
+			"translation": [0, -0.75, -0.5],
+			"scale": [2, 2, 2]
+		}
+	}
+}
