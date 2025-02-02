@@ -1,6 +1,13 @@
 {
 	"pack": {
-		"pack_format": 46,
-		"description": [{"text":"Blue's CIT pack","color":"#3a8cd6"},{"text":"\nbe sure to have citresewn!","color":"gold"}]
+		"pack_format": 61,
+		"description": [
+			{"text":"Chess Battle Advance (CBA)","color":"gold"},
+			{"text":"\nmade by ","color":"white"},
+			{"text":"Cabby, ","color":"#007b18"},
+			{"text":"Blue, ","color": "#3a8cd6"},
+			{"text":"& Aqua ","color": "#1eceac"},
+			{"text":"(CBA)","color":"gold"}
+		]
 	}
 }
